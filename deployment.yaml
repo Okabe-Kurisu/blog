@@ -128,4 +128,4 @@ spec:
       - hostPath:
           path: /data/Thumbs.json
           type: ""
-        name: thumbs
+        name: thumbs 
